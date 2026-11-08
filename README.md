@@ -1,138 +1,125 @@
-<!--
-  ROOTEDHOST // PROFILE README
-  Dark interface • terminal-inspired • motion accents
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:25104A,100:00F5A0&height=180&section=header&text=ROOTEDHOST&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=PLAYER%2001%20%2F%2F%20CODE%20%2B%20PLAY&descAlignY=62&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2400&pause=650&color=00F5A0&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+MODE...;%3E+LOADING+IDEAS+INTO+REALITY;%3E+DEBUG.+BUILD.+REPEAT.;%3E+GG%2C+NEXT+PROJECT." alt="Animated terminal intro" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=E6F7FF&center=true&vCenter=true&repeat=true&width=720&height=58&lines=PRATHYAKSH+SHETTY;BACKEND+%2F+AUTOMATION;BUILDING+BEHIND+THE+INTERFACE" alt="Animated introduction" />
-
-<p>
-  <code>rootedhost</code>
-  &nbsp;·&nbsp;
-  <code>developer</code>
-  &nbsp;·&nbsp;
-  <code>system tinkerer</code>
-</p>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=flat-square&labelColor=101820" />
-<img src="https://komarev.com/ghpvc/?username=RootedHost&style=flat-square&color=7C4DFF&label=PROFILE+SCANS" />
-<img src="https://img.shields.io/github/followers/RootedHost?style=flat-square&color=00E5FF&labelColor=101820&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/PLAYER-01-00F5A0?style=for-the-badge&labelColor=130B20" />
+<img src="https://img.shields.io/badge/CLASS-CODE%20BUILDER-FF3CAC?style=for-the-badge&labelColor=130B20" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&labelColor=130B20" />
 
 <br/><br/>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-101820?style=for-the-badge&logo=instagram&logoColor=E6F7FF)](https://instagram.com/Demonz.og)
-[![GitHub](https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/RootedHost)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=E6F7FF)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GITHUB-130B20?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/RootedHost)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-130B20?style=for-the-badge&logo=instagram&logoColor=FF3CAC)](https://instagram.com/Demonz.og)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-130B20?style=for-the-badge&logo=linkedin&logoColor=00F5A0)](YOUR_LINKEDIN_URL)
 
 </div>
 
-<br/>
+---
 
-<!-- SECTION: INTRO -->
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-### `01 / WHOAMI`
+## 🎮 PLAYER PROFILE
 
-I like working where **code meets infrastructure**.
+**Prathyaksh Shetty**  
+`aka RootedHost`
 
-My interests sit around backend development, automation, and the small details that make software dependable. I enjoy taking an idea, breaking it into practical pieces, and building something that actually works.
+I'm into the two worlds where creativity never really ends: **gaming and coding**.
 
-Currently exploring more of the Python and PHP ecosystem while sharpening my approach to APIs, tooling, and system-level problem solving.
+When I'm not exploring a game, I'm usually building something, experimenting with backend systems, automating tasks, or learning a new tool. I enjoy figuring out how things work behind the screen just as much as using what's on it.
 
-> *Make it useful. Make it work. Then make it better.*
+- 🧩 Interested in backend development
+- ⚙️ Into automation and system tinkering
+- 🕹️ Gaming is my recharge mode
+- 🚀 Always learning, always building
 
 </td>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
-### `02 / QUICK FACTS`
+## 🖥️ SYSTEM STATUS
 
-```ini
-[ identity ]
-name     = Prathyaksh Shetty
-handle   = RootedHost
-
-[ focus ]
-backend  = APIs & services
-automation = workflows
-learning = PHP / system infra
-
-[ mode ]
-curiosity = always_on
-collab    = open
+```yaml
+player: RootedHost
+level: learning_every_day
+main_quests:
+  - build cool things
+  - explore backend tech
+  - automate the boring stuff
+side_quests:
+  - gaming
+  - experimenting
+current_mode: developer
+party_status: open_to_collab
 ```
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated coding at a computer" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C4DFF" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF3CAC" width="100%" />
+
 </div>
 
-## `03 / TOOLKIT`
+## ⚔️ LOADOUT // TECH STACK
 
-<p align="center"><sub>LANGUAGES</sub></p>
+<p align="center"><b>PRIMARY WEAPONS — LANGUAGES</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages and programming tools" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,cs,html,css&theme=dark" />
 </p>
 
-<p align="center"><sub>ENVIRONMENT · PLATFORMS · DATABASES</sub></p>
+<p align="center"><b>GEAR — TOOLS & PLATFORMS</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Development tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare,git,github&theme=dark" />
 </p>
 
 <br/>
 
-## `04 / GITHUB TELEMETRY`
+## 🏆 PLAYER STATS // GITHUB
 
 <div align="center">
 
 <a href="https://github.com/RootedHost">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RootedHost&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RootedHost&show_icons=true&hide_border=true&bg_color=10091B&title_color=00F5A0&icon_color=FF3CAC&text_color=E9E2F5&rank_icon=github" />
 </a>
 <a href="https://github.com/RootedHost">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootedHost&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootedHost&layout=compact&hide_border=true&bg_color=10091B&title_color=00F5A0&text_color=E9E2F5" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/RootedHost">
-  <img width="80%" src="https://streak-stats.demolab.com?user=RootedHost&hide_border=true&background=0D1117&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=7D8590&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub contribution streak" />
-</a>
+<img width="82%" src="https://streak-stats.demolab.com?user=RootedHost&hide_border=true&background=10091B&ring=FF3CAC&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=E9E2F5&dates=8B819C&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=7C4DFF&area_color=7C4DFF&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=10091B&color=E9E2F5&line=00F5A0&point=FF3CAC&area_color=5B2A86&area=true&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-## `05 / CONTRIBUTION LOOP`
+## 🐍 BONUS ROUND // CONTRIBUTION RUN
 
 <div align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg" alt="Animated contribution snake" />
+
+<img width="95%" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg" alt="Contribution snake animation" />
+
 </div>
 
-<br/>
-
 <div align="center">
 
-<sub>Thanks for stopping by.</sub>
+### `INSERT COFFEE  //  PRESS START  //  SHIP SOMETHING`
 
-<br/>
+<sub>Thanks for visiting my corner of the internet. See you in the next commit.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF&section=footer" width="100%" />
-
-<sub><code>ROOTEDHOST</code> · crafted with curiosity · 2026</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:25104A,100:090014&height=110&section=footer" />
 
 </div>
