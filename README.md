@@ -1,21 +1,17 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  NEON NOIR PROFILE README                                    ║
-  ║  Theme: Dark Professional • Cyberpunk / Neon                 ║
-  ║  Animations: Header wave, typing, terminal, marquee, 3D      ║
+  ║  NEON GRID PROFILE                                          ║
+  ║  Theme: Cyberpunk / Neon • Hexagonal Skill Tree             ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ═══ HERO SECTION ═══ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,5,30&animation=twinkling&text=Prathyaksh%20Shetty&fontAlign=50&fontAlignY=35&fontSize=45&fontColor=ffffff&desc=Backend%20Architect%20%7C%20Automation%20Engineer&descAlign=50&descAlignY=55" width="100%" alt="Header Banner"/>
-
-<br/>
+<!-- HERO: Deep-space banner + neon typing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Prathyaksh%20Shetty&fontAlign=50&fontAlignY=35&fontSize=45&fontColor=00FFFF&desc=Backend%20Architect%20%7C%20Automation%20Engineer&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header" />
 
 <a href="https://github.com/RootedHost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing+Profile...;%3E+Whoami%3A+Prathyaksh+Shetty;%3E+Focus%3A+Backend+%26+Automation;%3E+Status%3A+Ready+to+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+System+boot...;%3E+Identity%3A+Prathyaksh+Shetty;%3E+Role%3A+Backend+%26+Automation;%3E+Status%3A+Online+and+building." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,32 +27,25 @@
 
 <br/>
 
-<!-- ═══ ABOUT ME SECTION (TERMINAL STYLE) ═══ -->
-
+<!-- ABOUT ME: Terminal card -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RootedHost/RootedHost/main/assets/github_stats.svg" alt="Terminal Stats" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RootedHost/RootedHost/main/assets/github_stats.svg" alt="Terminal Stats" width="85%"/>
 </div>
 
 <br/>
 
-> **Note:** The terminal widget above requires the `terminal-stats.yml` workflow (File 4) to generate `assets/github_stats.svg`. Run it once manually from the Actions tab to make it appear.
-
-<br/>
-
-<!-- ═══ BENTO GRID: SKILLS & INFO ═══ -->
-
-<h2 align="center">⚡ <span style="color:#00FFFF">Developer Dashboard</span></h2>
+<h2 align="center" style="color:#00FFFF;">⚡ <span style="color:#a855f7;">Developer Console</span></h2>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
 
 ### 👨‍💻 `$ whoami`
-I'm a backend developer who thrives on building robust, scalable systems and automating the boring stuff. My focus is on **Python**, **PHP**, and **system infrastructure**. I don't just write code; I architect solutions that are efficient, maintainable, and solve real problems.
+Backend developer focused on building robust, scalable systems and automating complex workflows. I work mostly in **Python**, **PHP**, and **system infrastructure**, and I care about code that stays fast and clean under real load.
 
-- 🔭 Currently building: Custom APIs & Automation Workflows
-- 🌱 Learning: Advanced System Design & Cloud Infrastructure
-- 💬 Ask me about: Backend logic, API design, and debugging complex systems
+- 🔭 Building: Custom APIs & automation pipelines
+- 🌱 Learning: Advanced system design & cloud infrastructure
+- 💬 Ask me about: Backend logic, API design, debugging
 
     </td>
     <td width="40%" valign="top" style="border: none;">
@@ -78,25 +67,37 @@ profile:
 
 <br/>
 
-<!-- ═══ TECH STACK ═══ -->
+<!-- ═══════════════════════════════════════════════════════════════════
+     HEXAGONAL TECH ARSENAL
+     This is a pre-rendered SVG skill tree with hexagonal nodes.
+     Replace the URL parameters if you want to change the skills.
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🛠️ <span style="color:#a855f7">Tech Arsenal</span></h2>
+<h2 align="center" style="color:#E4405F;">🛠️ <span style="color:#00FFFF;">Hex Tech Grid</span></h2>
 
-<p align="center"><b>Languages</b></p>
+<div align="center">
+  <img
+    src="https://readmeforge.natrajx.in/api/skill-tree?skills=Python:92,PHP:85,JavaScript:80,MySQL:88,MongoDB:82,Docker:75,Linux:85,AWS:70,TypeScript:65,React:60"
+    alt="Hexagonal Skill Tree"
+    width="90%"
+  />
+</div>
+
+<br/>
+
+<!-- FALLBACK SKILL ICONS (if the skill-tree service is down) -->
+<p align="center"><b>Core Stack</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,php,js,cpp,cs,html,css&theme=dark&perline=8" alt="Languages"/>
-</p>
-
-<p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare,git,github,linux&theme=dark&perline=10" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=py,php,js,mysql,mongodb,docker,linux,aws,ts,react&theme=dark&perline=5" alt="Core Stack" />
 </p>
 
 <br/>
 
-<!-- ═══ DYNAMIC STATS ═══ -->
+<!-- ═══════════════════════════════════════════════════════════════════
+     NEON STATS & TELEMETRY
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 <span style="color:#E4405F">GitHub Telemetry</span></h2>
+<h2 align="center" style="color:#a855f7;">📊 <span style="color:#00FFFF;">Telemetry</span></h2>
 
 <div align="center">
   <a href="https://github.com/RootedHost">
@@ -125,9 +126,11 @@ profile:
 
 <br/>
 
-<!-- ═══ 3D CONTRIBUTIONS & SNAKE ═══ -->
+<!-- ═══════════════════════════════════════════════════════════════════
+     CONTRIBUTION VISUALS
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌐 <span style="color:#00FFFF">Contribution Universe</span></h2>
+<h2 align="center" style="color:#00FFFF;">🌐 <span style="color:#E4405F;">Contribution Grid</span></h2>
 
 <div align="center">
   <picture>
@@ -149,8 +152,7 @@ profile:
 
 <br/>
 
-<!-- ═══ FOOTER ═══ -->
-
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Let's+Build+Something+Legendary&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D1117&section=footer&text=Keep+Building&fontSize=24&fontColor=00FFFF&animation=twinkling" width="100%" alt="Footer" />
 </div>
