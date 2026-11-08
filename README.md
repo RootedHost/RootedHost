@@ -1,148 +1,138 @@
+<!--
+  ROOTEDHOST // PROFILE README
+  Dark interface • terminal-inspired • motion accents
+-->
+
 <div align="center">
 
-<!-- Top Wavy Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,002244,00FFFF&animation=hue&section=header" width="100%" alt="Header Wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF&section=header" />
 
-<br>
+<br/>
 
-<!-- Typing Animation (Adaptive) -->
-<a href="https://github.com/RootedHost">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
-  </picture>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=E6F7FF&center=true&vCenter=true&repeat=true&width=720&height=58&lines=PRATHYAKSH+SHETTY;BACKEND+%2F+AUTOMATION;BUILDING+BEHIND+THE+INTERFACE" alt="Animated introduction" />
 
-<br>
+<p>
+  <code>rootedhost</code>
+  &nbsp;·&nbsp;
+  <code>developer</code>
+  &nbsp;·&nbsp;
+  <code>system tinkerer</code>
+</p>
 
-<!-- Static Subtitle (Adaptive) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
-</picture>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=flat-square&labelColor=101820" />
+<img src="https://komarev.com/ghpvc/?username=RootedHost&style=flat-square&color=7C4DFF&label=PROFILE+SCANS" />
+<img src="https://img.shields.io/github/followers/RootedHost?style=flat-square&color=00E5FF&labelColor=101820&label=FOLLOWERS" />
 
-<br>
+<br/><br/>
 
-<!-- Tagline (Adaptive) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
-</picture>
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/Demonz.og"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/RootedHost?tab=followers"><img src="https://img.shields.io/github/followers/RootedHost?style=for-the-badge&color=2196F3&label=FOLLOWERS" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=RootedHost&style=for-the-badge&color=2196F3&label=VIEWS" alt="Profile Views"/>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-101820?style=for-the-badge&logo=instagram&logoColor=E6F7FF)](https://instagram.com/Demonz.og)
+[![GitHub](https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/RootedHost)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=E6F7FF)](YOUR_LINKEDIN_URL)
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
-</p>
+<br/>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;" markdown="1">
-      <h3>👨‍💻 About Me</h3>
-      <p>I’m a passionate developer who enjoys building practical projects, learning new technologies, and solving problems through code.</p>
-      <p>I’m continuously improving my skills in <b>backend development</b> and <b>system infrastructure</b>, exploring different tools across <b>Python</b> and <b>PHP</b>, and turning ideas into real-world applications like custom APIs and automation workflows.</p>
-      <p>I enjoy experimenting, debugging, and understanding how complex systems work under the hood. I’m always open to learning, collaborating, and contributing to projects that help me grow as a developer.</p>
-      <br>
-      <blockquote><i>"I don't just write code — I solve problems."</i></blockquote>
-    </td>
-    <td width="40%" valign="top" style="border: none;" markdown="1">
-      <h3>⚡ Profile</h3>
+<!-- SECTION: INTRO -->
+<table>
+<tr>
+<td width="58%" valign="top">
 
-~~~yaml
-Name     : Prathyaksh Shetty
-Handle   : RootedHost
-Focus    : Backend & Automation
-Learning : PHP & Sys Infra
-Open_to  : Collaborations
-~~~
-<ul style="list-style-type:none; padding-left: 0;">
-<li>🔧 Building custom APIs & workflows</li>
-<li>🐛 Debugging complex systems</li>
-<li>💡 Exploring Python & PHP tools</li>
-</ul>
-    </td>
-  </tr>
+### `01 / WHOAMI`
+
+I like working where **code meets infrastructure**.
+
+My interests sit around backend development, automation, and the small details that make software dependable. I enjoy taking an idea, breaking it into practical pieces, and building something that actually works.
+
+Currently exploring more of the Python and PHP ecosystem while sharpening my approach to APIs, tooling, and system-level problem solving.
+
+> *Make it useful. Make it work. Then make it better.*
+
+</td>
+<td width="42%" valign="top">
+
+### `02 / QUICK FACTS`
+
+```ini
+[ identity ]
+name     = Prathyaksh Shetty
+handle   = RootedHost
+
+[ focus ]
+backend  = APIs & services
+automation = workflows
+learning = PHP / system infra
+
+[ mode ]
+curiosity = always_on
+collab    = open
+```
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
-</p>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Chtml%2Ccss%2Cphp%2Ccpp%2Ccs%2Cjs&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Chtml%2Ccss%2Cphp%2Ccpp%2Ccs%2Cjs&theme=light">
-      <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages"/>
-    </picture>
-  </a>
-</p>
-
-<p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Candroidstudio%2Cmysql%2Cmongodb%2Cvercel%2Cazure%2Ccloudflare&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Candroidstudio%2Cmysql%2Cmongodb%2Cvercel%2Cazure%2Ccloudflare&theme=light">
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Tools"/>
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
-</p>
-
-<h3 align="center">📊 GitHub Stats & Contributions</h3>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/RootedHost">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=default&hide_border=true">
-      <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true" alt="GitHub Streak" />
-    </picture>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C4DFF" width="100%" />
 </div>
 
-<br>
+## `03 / TOOLKIT`
+
+<p align="center"><sub>LANGUAGES</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages and programming tools" />
+</p>
+
+<p align="center"><sub>ENVIRONMENT · PLATFORMS · DATABASES</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Development tools and platforms" />
+</p>
+
+<br/>
+
+## `04 / GITHUB TELEMETRY`
 
 <div align="center">
-  <a href="https://github.com/RootedHost">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-    </picture>
-  </a>
+
+<a href="https://github.com/RootedHost">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RootedHost&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/RootedHost">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootedHost&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/RootedHost">
+  <img width="80%" src="https://streak-stats.demolab.com?user=RootedHost&hide_border=true&background=0D1117&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=7D8590&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub contribution streak" />
+</a>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=7C4DFF&area_color=7C4DFF&area=true&hide_border=true" alt="Contribution activity graph" />
+
 </div>
 
-<br>
+<br/>
+
+## `05 / CONTRIBUTION LOOP`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
-  </picture>
+  <img width="96%" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg" alt="Animated contribution snake" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-<!-- Bottom Wavy Color-Changing Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,002244,00FFFF&animation=hue&section=footer" width="100%" alt="Footer Wave"/>
+
+<sub>Thanks for stopping by.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF&section=footer" width="100%" />
+
+<sub><code>ROOTEDHOST</code> · crafted with curiosity · 2026</sub>
+
 </div>
